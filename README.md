@@ -14,6 +14,7 @@
 | **[B2B Company Deep-Enrichment](https://github.com/topaisaas-dev/b2b-company-enrichment)** | 100+ technographics scanner, contact graph, and AI cold outreach icebreakers | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://b2b-company-enrichment.topaisaas.workers.dev) |
 | **[AI Real-Time Web Search](https://github.com/topaisaas-dev/ai-web-search)** | Noise-free real-time search, news engine, and instant RAG prompt grounding | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://ai-web-search.topaisaas.workers.dev) |
 | **[Semantic Cache & Token Saver](https://github.com/topaisaas-dev/semantic-cache)** | Sub-millisecond vector cache for OpenAI, Claude, Gemini. Cuts bills by 30-60% | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://semantic-cache.topaisaas.workers.dev) |
+| **[PDF & Invoice Extractor](https://github.com/topaisaas-dev/pdf-invoice-extractor)** | Zero-token financial entity parser, table extractor, ISO 7064 IBAN & VAT audit | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://pdf-invoice-extractor.topaisaas.workers.dev) |
 
 ---
 
