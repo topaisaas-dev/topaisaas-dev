@@ -18,6 +18,7 @@
 | **[Headless Webpage Screenshot](https://github.com/topaisaas-dev/headless-screenshot)** | High-speed webpage visual capture, 1200x630 social card banners & mockups | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://headless-screenshot.topaisaas.workers.dev) |
 | **[LLM Shield & Prompt Guard](https://github.com/topaisaas-dev/llm-shield-guard)** | Sub-millisecond firewall, prompt injection defense, jailbreak blocker & PII redaction | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://llm-shield-guard.topaisaas.workers.dev) |
 | **[TokenSlimmer API](https://github.com/topaisaas-dev/tokenslimmer-api)** | Slashes LLM token costs by 30-70%, HTML boilerplate stripper & recursive JSON compressor | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://tokenslimmer-api.topaisaas.workers.dev) |
+| **[AgentVision Crop & Focus](https://github.com/topaisaas-dev/agentvision-crop-focus)** | Surgical headless crop & focus for multimodal LLMs (GPT-4o, Claude 3.5), slashes vision tokens by 60-85% | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://agentvision-crop-focus.topaisaas.workers.dev) |
 
 ---
 
