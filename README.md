@@ -17,6 +17,7 @@
 | **[PDF & Invoice Extractor](https://github.com/topaisaas-dev/pdf-invoice-extractor)** | Zero-token financial entity parser, table extractor, ISO 7064 IBAN & VAT audit | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://pdf-invoice-extractor.topaisaas.workers.dev) |
 | **[Headless Webpage Screenshot](https://github.com/topaisaas-dev/headless-screenshot)** | High-speed webpage visual capture, 1200x630 social card banners & mockups | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://headless-screenshot.topaisaas.workers.dev) |
 | **[LLM Shield & Prompt Guard](https://github.com/topaisaas-dev/llm-shield-guard)** | Sub-millisecond firewall, prompt injection defense, jailbreak blocker & PII redaction | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://llm-shield-guard.topaisaas.workers.dev) |
+| **[TokenSlimmer API](https://github.com/topaisaas-dev/tokenslimmer-api)** | Slashes LLM token costs by 30-70%, HTML boilerplate stripper & recursive JSON compressor | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://tokenslimmer-api.topaisaas.workers.dev) |
 
 ---
 
