@@ -15,6 +15,7 @@
 | **[AI Real-Time Web Search](https://github.com/topaisaas-dev/ai-web-search)** | Noise-free real-time search, news engine, and instant RAG prompt grounding | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://ai-web-search.topaisaas.workers.dev) |
 | **[Semantic Cache & Token Saver](https://github.com/topaisaas-dev/semantic-cache)** | Sub-millisecond vector cache for OpenAI, Claude, Gemini. Cuts bills by 30-60% | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://semantic-cache.topaisaas.workers.dev) |
 | **[PDF & Invoice Extractor](https://github.com/topaisaas-dev/pdf-invoice-extractor)** | Zero-token financial entity parser, table extractor, ISO 7064 IBAN & VAT audit | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://pdf-invoice-extractor.topaisaas.workers.dev) |
+| **[Headless Webpage Screenshot](https://github.com/topaisaas-dev/headless-screenshot)** | High-speed webpage visual capture, 1200x630 social card banners & mockups | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe](https://rapidapi.com/user/topaisaas-dev) | [Explore](https://headless-screenshot.topaisaas.workers.dev) |
 
 ---
 
