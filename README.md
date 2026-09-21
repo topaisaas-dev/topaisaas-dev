@@ -1,7 +1,16 @@
 # 🚀 TopAI SaaS Studio
 
-> **Autonomous Agent-to-Agent (A2A) Micro-SaaS APIs & High-Speed Developer Infrastructure.**  
-> Built for AI Engineers, Autonomous Agents, and Outbound Automation Pipelines (**Make, n8n, Clay, LangChain, CrewAI**).
+> **High-Performance Autonomous Agent-to-Agent (A2A) APIs & Edge Infrastructure.**  
+> Built for AI Engineers, Autonomous Agents (**Claude Code, Cursor, Windsurf, Antigravity**), and Production Automation Pipelines (**LangChain, CrewAI, Make, n8n, Clay**).
+
+---
+
+### 🏛️ The 4 Core Pillars of the Portfolio
+
+- 🔌 **Native Model Context Protocol (MCP)**: 19 pre-bundled serverless agent tools executable with 0ms cold start via HTTP SSE and stdio (`npx -y @topaisaas/mcp-server`).
+- ⚡ **LLM Efficiency & Anti-Hallucination**: Deterministic mathematical audit, semantic caching, token slimming (-70%), and multimodal ROI vision cropping (-75%).
+- 🛡️ **Vertical & Regulated Intelligence**: Real-time NPI/RPPS healthcare licensing, FDA Orange Book pharmaceutical patent cliffs, and Polymarket arbitrage sizing.
+- 🌐 **Deep Web & B2B Extraction**: Noise-free Web-to-Markdown, Google AI Overview SERP citations, 70+ BuiltWith technographics, and live burner email MX shields.
 
 ---
 
@@ -22,7 +31,7 @@
 | **[AgentMath & Fact-Checker](https://github.com/topaisaas-dev/agentmath-fact-checker-api)** | Deterministic VAT, business days, finance & invoice reconciler anti-hallucination layer | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/agentmath-fact-checker-api/pricing) | [Explore](https://agentmath-fact-checker.topaisaas.workers.dev) |
 | **[TechStack Fingerprinter](https://github.com/topaisaas-dev/techstack-fingerprinter-api)** | Sub-50ms BuiltWith alternative, 70+ CMS/eCommerce/CRM technographics for Clay & cold outreach | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/techstack-fingerprinter-api/pricing) | [Explore](https://techstack-fingerprinter.topaisaas.workers.dev) |
 | **[Polymarket Odds & Arbitrage Delta](https://github.com/topaisaas-dev/polymarket-arbitrage-api)** | Real-time prediction odds, cross-platform mispricing deltas, Kelly sizing & slippage for bots | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/polymarket-odds-arbitrage-delta-api/pricing) | [Explore](https://polymarket-arbitrage.topaisaas.workers.dev) |
-| **[Universal MCP Server Hub](https://github.com/topaisaas-dev/universal-mcp-server-hub)** | Model Context Protocol hub bundling 9 production AI tools for Claude Code, Cursor, Windsurf | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/universal-native-mcp-server-hub/pricing) | [Explore](https://mcp-server-hub.topaisaas.workers.dev) |
+| **[Universal MCP Server Hub](https://github.com/topaisaas-dev/universal-mcp-server-hub)** | Model Context Protocol hub bundling 19 production AI tools for Claude Code, Cursor, Windsurf | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/universal-native-mcp-server-hub/pricing) | [Explore](https://mcp-server-hub.topaisaas.workers.dev) |
 | **[PharmaPatent Expiry Watcher](https://github.com/topaisaas-dev/pharmapatent-expiry-api)** | FDA Orange Book patent cliffs, exclusivity expirations & Paragraph IV generic challenge tracker | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/pharmapatent-expiry-fda-orange-book-watcher-api/pricing) | [Explore](https://pharmapatent-expiry.topaisaas.workers.dev) |
 | **[Healthcare Provider & License Validator](https://github.com/topaisaas-dev/healthcare-license-validator-api)** | Instant NPI (Luhn 80840), EU RPPS/ADELI credentials, NUCC taxonomy & CMS NPPES sync | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/healthcare-provider-medical-license-validator-api/pricing) | [Explore](https://healthcare-license-validator.topaisaas.workers.dev) |
 | **[Google AI Overview Extractor](https://github.com/topaisaas-dev/google-ai-overview-api)** | Sub-50ms Google SGE generative answers, cited source links, follow-up queries & cannibalization | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/google-ai-overview-serp-extractor-api/pricing) | [Explore](https://google-ai-overview-api.topaisaas.workers.dev) |
@@ -33,8 +42,8 @@
 
 ## 🛠️ Architecture & Tech Stack
 
-- **Global Serverless Edge**: Cloudflare Workers with 0ms cold-start latency.
-- **Standards**: OpenAPI 3.0.3, TypeScript, Hono Framework.
+- **Global Serverless Edge**: Cloudflare Workers with 0ms cold-start latency across 300+ edge PoPs.
+- **Protocol Standards**: OpenAPI 3.0.3, Model Context Protocol (MCP 2024-11-05), JSON-RPC 2.0, Server-Sent Events (SSE).
 - **Security**: Built-in Anti-SSRF protection (RFC 1918 & Cloud Metadata filters), Threat Protection.
 - **Zero-Token Waste**: Deterministic, high-density algorithmic processing designed specifically for LLM context windows.
 
@@ -42,4 +51,6 @@
 
 ## 📬 Contact & Marketplace
 - **RapidAPI Hub**: [rapidapi.com/user/topaisaasdev](https://rapidapi.com/user/topaisaasdev)
+- **Smithery Hub**: [smithery.ai/servers/top-ai-saas/mcp-server](https://smithery.ai/servers/top-ai-saas/mcp-server)
+- **npm Registry**: [npmjs.com/package/@topaisaas/mcp-server](https://www.npmjs.com/package/@topaisaas/mcp-server)
 - **Direct Support**: `top.ai.saas@gmail.com`
