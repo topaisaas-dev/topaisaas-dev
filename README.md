@@ -1,7 +1,13 @@
-# 🚀 TopAI SaaS Studio
+<p align="center">
+  <img src="assets/topai_official_512.png" alt="TopAI SaaS Studio Logo" width="120" height="120" style="border-radius: 20px;">
+</p>
 
-> **High-Performance Autonomous Agent-to-Agent (A2A) APIs & Edge Infrastructure.**  
-> Built for AI Engineers, Autonomous Agents (**Claude Code, Cursor, Windsurf, Antigravity**), and Production Automation Pipelines (**LangChain, CrewAI, Make, n8n, Clay**).
+# <p align="center">🚀 TopAI SaaS Studio</p>
+
+<p align="center">
+  <strong>High-Performance Autonomous Agent-to-Agent (A2A) APIs & 0ms Edge Infrastructure.</strong><br/>
+  <em>Built for AI Engineers, Autonomous Agents (<strong>Claude Code, Cursor, Windsurf, Antigravity</strong>), and Production Automation Pipelines (<strong>LangChain, CrewAI, Make, n8n, Clay</strong>).</em>
+</p>
 
 ---
 
