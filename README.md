@@ -42,6 +42,24 @@
 > [!TIP]
 > **Zero-Token Waste Policy & Financial Shield**: All HTML sanitization, document parsing, schema dereferencing, and financial computations execute via **100% deterministic edge algorithms (0ms cold start, zero server-side LLM token cost)**. We eradicate hallucinations and financial leakage before data ever touches your model's context window.
 
+## 🎯 Who is TopAI For?
+
+### 🧑‍💻 For Individual Developers & AI Builders
+> You use Cursor, Claude Code, or Windsurf daily. You hit rate limits by mid-afternoon.
+> Your token bills keep climbing with each new AI-powered feature.
+
+TopAI **Solo** gives you the full FinOps stack — token compression, semantic caching, and 19+ native MCP tools — so you ship **2.5× more code** with the same API spend. One subscription, every tool, zero per-API billing surprises.
+
+→ [Start Free on RapidAPI](https://rapidapi.com/user/topaisaasdev)
+
+### 🏢 For Engineering Teams & Enterprises
+> Your devs run unmonitored agent loops overnight burning hundreds of dollars.
+> PII leaks into LLM prompts. Regulatory audits are approaching and you have no proof trail.
+
+TopAI **Team** deploys budget-capped virtual keys per developer, PII masking before any prompt reaches the cloud, runaway loop circuit breakers, and a full EU AI Act / DORA compliance audit trail — all from a single gateway subscription.
+
+→ [Contact Sales](https://github.com/topaisaas-dev)
+
 ---
 
 ## 🚀 Instant MCP Integration (1-Click for Coding Agents)
