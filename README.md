@@ -161,4 +161,4 @@ Configuration for `claude_desktop_config.json` or Cursor:
 - **RapidAPI Hub**: [rapidapi.com/user/topaisaasdev](https://rapidapi.com/user/topaisaasdev)
 - **Smithery Registry**: [smithery.ai/servers/top-ai-saas/mcp-server](https://smithery.ai/servers/top-ai-saas/mcp-server)
 - **npm Registry**: [npmjs.com/package/@topaisaas/mcp-server](https://www.npmjs.com/package/@topaisaas/mcp-server)
-- **Inquiries & Partnerships**: `top.ai.saas@gmail.com`
+
