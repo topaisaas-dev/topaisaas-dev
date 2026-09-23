@@ -147,16 +147,6 @@ Configuration for `claude_desktop_config.json` or Cursor:
 
 ---
 
-## 🎨 Official Brand Identity (Infinity Ligature)
-
-The official TopAI SaaS Studio emblem embodies the continuous infinity ligature (**T-O-P-A-I**), symbolizing topological speed and sub-30ms dataflow:
-- **Master Vector (SVG)**: [`assets/topai_logo.svg`](assets/topai_logo.svg)
-- **High-Resolution Icon (PNG 512px)**: [`assets/topai_official_512.png`](assets/topai_official_512.png)
-- **Multi-Size Favicon Suite (ICO)**: [`assets/favicon.ico`](assets/favicon.ico)
-- **Brand Palette**: Electric Yellow (`#FFD600`) & Pure Obsidian Black (`#000000`).
-
----
-
 ## 🛠️ Global Edge Architecture & Security
 
 - **Serverless Edge Network**: Powered by Cloudflare Workers across 300+ PoPs with **0ms cold start**.
