@@ -1,39 +1,89 @@
 <p align="center">
-  <img src="assets/topai_official_512.png" alt="TopAI SaaS Studio Logo" width="120" height="120" style="border-radius: 20px;">
+  <a href="https://github.com/topaisaas-dev">
+    <img src="assets/topai_official_512.png" alt="TopAI SaaS Studio Official Logo" width="130" height="130" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(255, 214, 0, 0.35);">
+  </a>
 </p>
 
-# <p align="center">🚀 TopAI SaaS Studio</p>
+# <p align="center">⚡ TopAI SaaS Studio</p>
 
 <p align="center">
-  <strong>High-Performance Autonomous Agent-to-Agent (A2A) APIs & 0ms Edge Infrastructure.</strong><br/>
-  <em>Built for AI Engineers, Autonomous Agents (<strong>Claude Code, Cursor, Windsurf, Antigravity</strong>), and Production Automation Pipelines (<strong>LangChain, CrewAI, Make, n8n, Clay</strong>).</em>
+  <strong>Enterprise AI Infrastructure & Autonomous Agent-to-Agent (A2A) Gateway</strong><br/>
+  <em>Sub-30ms routing, deterministic LLM FinOps (-30% to -85% token costs), and 0ms serverless edge APIs across 300+ PoPs worldwide.</em>
+</p>
+
+<p align="center">
+  <a href="https://rapidapi.com/user/topaisaasdev"><img src="https://img.shields.io/badge/RapidAPI-Verified%20Publisher-0055FF?style=flat-square&logo=rapidapi&logoColor=white" alt="RapidAPI"/></a>
+  <a href="https://mcp-server-hub.topaisaas.workers.dev"><img src="https://img.shields.io/badge/MCP%20Hub-Live%20Edge-brightgreen?style=flat-square" alt="MCP Hub"/></a>
+  <a href="https://smithery.ai/servers/top-ai-saas/mcp-server"><img src="https://img.shields.io/badge/Smithery-MCP%20Registry-orange?style=flat-square" alt="Smithery"/></a>
+  <a href="https://www.npmjs.com/package/@topaisaas/mcp-server"><img src="https://img.shields.io/badge/npm-@topaisaas%2Fmcp--server-CB3837?style=flat-square&logo=npm" alt="npm"/></a>
+  <img src="https://img.shields.io/badge/Cold%20Start-0ms%20Serverless-FFD600?style=flat-square&color=FFD600&labelColor=000000" alt="0ms Cold Start"/>
+  <img src="https://img.shields.io/badge/Cost%20Shield-0%20%E2%82%AC%20Guaranteed-000000?style=flat-square&color=000000&labelColor=FFD600" alt="Zero Expense Guarantee"/>
 </p>
 
 ---
 
-### 🧭 Explore Our 4 Production Pillars
+## 🏛️ What is TopAI?
 
-- [🔌 **Pillar 1**: Native Model Context Protocol (MCP) & Developer Tooling](#-pillar-1-native-model-context-protocol-mcp--developer-tooling)
-- [⚡ **Pillar 2**: LLM Efficiency, Cost Reduction & Deterministic Guardrails](#-pillar-2-llm-efficiency-cost-reduction--deterministic-guardrails)
-- [🛡️ **Pillar 3**: Vertical & Regulated Domain Intelligence](#-pillar-3-vertical--regulated-domain-intelligence)
-- [🌐 **Pillar 4**: Deep Web Extraction, Grounding & B2B Intelligence](#-pillar-4-deep-web-extraction-grounding--b2b-intelligence)
+**TopAI SaaS Studio** is an edge-native enterprise AI infrastructure layer engineered for:
+1. **Autonomous Coding Agents**: Instant, zero-config MCP tooling for **Claude Code, Cursor, Windsurf, Antigravity**.
+2. **Production Automation Workflows**: High-density deterministic primitives for **LangChain, LlamaIndex, CrewAI, Make, n8n, Clay**.
+3. **Enterprise AI FinOps**: Algorithmic token-stripping, semantic caching, and deterministic guardrails that slash production LLM bills by **30% to 85%**.
+
+> [!TIP]
+> **Zero Token Waste Policy**: All parsing, HTML cleaning, table extraction, and verification engines run on **100% deterministic edge algorithms** — eliminating pay-per-token overhead and eradicating hallucinations before data ever hits your LLM context window.
 
 ---
 
-### 🔌 Pillar 1: Native Model Context Protocol (MCP) & Developer Tooling
-*Turn autonomous coding agents into super-agents with zero configuration, spec-compliant schemas, and edge bundling.*
+## 🚀 Instant MCP Integration (1-Click)
 
-| API Service | Mission & Value | Status | RapidAPI | Live Edge |
+Connect your autonomous coding agents to the entire TopAI tool suite with a single command:
+
+```bash
+# Add TopAI Universal MCP Server to Claude Code / Claude Desktop
+npx -y @topaisaas/mcp-server
+```
+
+Or configure via `claude_desktop_config.json` / `cursor`:
+```json
+{
+  "mcpServers": {
+    "topai-hub": {
+      "command": "npx",
+      "args": ["-y", "@topaisaas/mcp-server"]
+    }
+  }
+}
+```
+
+---
+
+## 🧭 The 4 Enterprise Production Pillars
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                            TOPAI SAAS STUDIO                                │
+├──────────────────────┬──────────────────────┬───────────────────────────────┤
+│  🔌 PILLAR 1: MCP    │  ⚡ PILLAR 2: FINOPS  │  🛡️ PILLAR 3: REGULATED       │
+│  Developer Tooling   │  Cost & Guardrails   │  Healthcare, Pharma, Markets  │
+├──────────────────────┴──────────────────────┴───────────────────────────────┤
+│  🌐 PILLAR 4: DEEP WEB EXTRACTION, GROUNDING & B2B RECONNAISSANCE           │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🔌 Pillar 1: Native Model Context Protocol (MCP) & Developer Tooling
+*Equip autonomous coding agents with zero-configuration tools, schema-validated outputs, and sub-5ms edge execution.*
+
+| Microservice | Mission & Value | Status | RapidAPI | Live Edge |
 |---|---|:---:|:---:|:---:|
-| **[Universal MCP Server Hub](https://github.com/topaisaas-dev/universal-mcp-server-hub)** | Model Context Protocol hub bundling 19 production AI tools for Claude Code, Cursor, Windsurf | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/universal-native-mcp-server-hub/pricing) | [Explore](https://mcp-server-hub.topaisaas.workers.dev) |
-| **[OpenAPI 3.0 Flattener & RapidAPI Cleaner](https://github.com/topaisaas-dev/openapi-flattener-api)** | Sub-5ms OpenAPI 3.0/3.1 recursive $ref dereferencer, circular guard & RapidAPI schema sanitizer | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/openapi-flattener-schema-cleaner-api/pricing) | [Explore](https://openapi-flattener.topaisaas.workers.dev) |
+| **[Universal MCP Server Hub](https://github.com/topaisaas-dev/universal-mcp-server-hub)** | All-in-one MCP server bundling 19 production AI tools for Claude Code, Cursor, Windsurf | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/universal-native-mcp-server-hub/pricing) | [Explore](https://mcp-server-hub.topaisaas.workers.dev) |
+| **[OpenAPI 3.0 Flattener](https://github.com/topaisaas-dev/openapi-flattener-api)** | Sub-5ms recursive `$ref` dereferencer, circular guard & RapidAPI schema sanitizer | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/openapi-flattener-schema-cleaner-api/pricing) | [Explore](https://openapi-flattener.topaisaas.workers.dev) |
 
 ---
 
 ### ⚡ Pillar 2: LLM Efficiency, Cost Reduction & Deterministic Guardrails
 *Slash AI inference bills by 30% to 85%, eliminate hallucinations, and enforce strict sub-millisecond firewalls.*
 
-| API Service | Mission & Value | Status | RapidAPI | Live Edge |
+| Microservice | Mission & Value | Status | RapidAPI | Live Edge |
 |---|---|:---:|:---:|:---:|
 | **[Semantic Cache & Token Saver](https://github.com/topaisaas-dev/semantic-cache)** | Sub-millisecond vector cache for OpenAI, Claude, Gemini. Cuts bills by 30-60% | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/semantic-cache-token-saver-api/pricing) | [Explore](https://semantic-cache.topaisaas.workers.dev) |
 | **[TokenSlimmer API](https://github.com/topaisaas-dev/tokenslimmer-api)** | Slashes LLM token costs by 30-70%, HTML boilerplate stripper & recursive JSON compressor | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/tokenslimmer-api/pricing) | [Explore](https://tokenslimmer-api.topaisaas.workers.dev) |
@@ -47,7 +97,7 @@
 ### 🛡️ Pillar 3: Vertical & Regulated Domain Intelligence
 *Mission-critical verification engines for high-stakes healthcare, pharmaceutical, and financial prediction domains.*
 
-| API Service | Mission & Value | Status | RapidAPI | Live Edge |
+| Microservice | Mission & Value | Status | RapidAPI | Live Edge |
 |---|---|:---:|:---:|:---:|
 | **[Healthcare Provider & License Validator](https://github.com/topaisaas-dev/healthcare-license-validator-api)** | Instant NPI (Luhn 80840), EU RPPS/ADELI credentials, NUCC taxonomy & CMS NPPES sync | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/healthcare-provider-medical-license-validator-api/pricing) | [Explore](https://healthcare-license-validator.topaisaas.workers.dev) |
 | **[PharmaPatent Expiry Watcher](https://github.com/topaisaas-dev/pharmapatent-expiry-api)** | FDA Orange Book patent cliffs, exclusivity expirations & Paragraph IV generic challenge tracker | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/pharmapatent-expiry-fda-orange-book-watcher-api/pricing) | [Explore](https://pharmapatent-expiry.topaisaas.workers.dev) |
@@ -58,7 +108,7 @@
 ### 🌐 Pillar 4: Deep Web Extraction, Grounding & B2B Intelligence
 *Real-time web scraping, generative search engine citations, technographic fingerprinting, and sales enrichment.*
 
-| API Service | Mission & Value | Status | RapidAPI | Live Edge |
+| Microservice | Mission & Value | Status | RapidAPI | Live Edge |
 |---|---|:---:|:---:|:---:|
 | **[Web-to-Markdown API](https://github.com/topaisaas-dev/web-to-markdown-api)** | Ad-free web extraction, clean Markdown for LLMs, and contact detection | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/universal-web-to-markdown-b2b-lead-intelligence-api/pricing) | [Explore](https://web-to-markdown-api.topaisaas.workers.dev) |
 | **[B2B Data-as-a-Service](https://github.com/topaisaas-dev/b2b-data-as-a-service)** | Qualified B2B company directory, firmographics, and instant CSV/JSON datasets | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/enterprise-b2b-data-as-a-service-lead-dataset-api/pricing) | [Explore](https://b2b-data-as-a-service.topaisaas.workers.dev) |
@@ -71,17 +121,28 @@
 
 ---
 
-## 🛠️ Global Edge Architecture
+## 🎨 Official Brand Assets
 
-- **Global Serverless Edge**: Cloudflare Workers with 0ms cold-start latency across 300+ edge PoPs.
-- **Protocol Standards**: OpenAPI 3.0.3, Model Context Protocol (MCP 2024-11-05), JSON-RPC 2.0, Server-Sent Events (SSE).
-- **Security**: Built-in Anti-SSRF protection (RFC 1918 & Cloud Metadata filters), Threat Protection.
-- **Zero-Token Waste**: Deterministic, high-density algorithmic processing designed specifically for LLM context windows.
+The TopAI visual identity features the **Infinity Ligature** emblem:
+- **Master SVG**: [`assets/topai_logo.svg`](assets/topai_logo.svg)
+- **High-Res PNG (512x512)**: [`assets/topai_official_512.png`](assets/topai_official_512.png)
+- **Favicon**: [`assets/favicon.ico`](assets/favicon.ico)
+- **Primary Palette**: Electric Yellow (`#FFD600`) & Obsidian Black (`#000000`).
 
 ---
 
-## 📬 Contact & Marketplace
+## 🛠️ Global Edge Architecture & Security
+
+- **Serverless Edge Network**: Powered by Cloudflare Workers across 300+ PoPs with **0ms cold start**.
+- **Protocols Supported**: Model Context Protocol (MCP), OpenAPI 3.0.3, JSON-RPC 2.0, SSE.
+- **Enterprise Security**: Built-in RFC 1918 Private IP filtering, Cloud Metadata firewalls, and DDoS rate-limiting.
+- **Zero-Expense Shield**: 100% serverless, zero token billing overhead for parsing.
+
+---
+
+## 📬 Marketplace & Ecosystem
+
 - **RapidAPI Hub**: [rapidapi.com/user/topaisaasdev](https://rapidapi.com/user/topaisaasdev)
-- **Smithery Hub**: [smithery.ai/servers/top-ai-saas/mcp-server](https://smithery.ai/servers/top-ai-saas/mcp-server)
+- **Smithery Registry**: [smithery.ai/servers/top-ai-saas/mcp-server](https://smithery.ai/servers/top-ai-saas/mcp-server)
 - **npm Registry**: [npmjs.com/package/@topaisaas/mcp-server](https://www.npmjs.com/package/@topaisaas/mcp-server)
-- **Direct Support**: `top.ai.saas@gmail.com`
+- **Inquiries**: `top.ai.saas@gmail.com`
