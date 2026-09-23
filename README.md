@@ -24,36 +24,36 @@
 
 ## 🏛️ What is TopAI SaaS Studio?
 
-**TopAI SaaS Studio** is an edge-native enterprise AI infrastructure layer engineered to solve the four critical friction points of modern enterprise AI adoption:
+**TopAI SaaS Studio** is an edge-native enterprise AI infrastructure layer engineered to resolve the four critical friction points of modern enterprise AI adoption:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
 │                                   TOPAI SAAS STUDIO                                     │
 ├────────────────────────────┬────────────────────────────┬───────────────────────────────┤
-│  ⚡ PILIER 1 : FINOPS       │  🤖 PILIER 2 : MCP         │  🚀 PILIER 3 : STARTUPS       │
-│  Optimisation des Coûts    │  Agents Autonomes & Mesh   │  Product-Ops & B2B Growth     │
-│  -30% à -85% Token Waste   │  19+ Outils Natifs Cursor  │  Billing, Multi-Tenant, Scale │
+│  ⚡ PILLAR 1: FINOPS        │  🤖 PILLAR 2: MCP          │  🚀 PILLAR 3: STARTUPS        │
+│  Cost & Token Optimization │  Autonomous Agent Mesh     │  Product-Ops & B2B Growth     │
+│  -30% to -85% Token Waste  │  19+ Native Cursor Tools   │  Billing, Multi-Tenant, Scale │
 ├────────────────────────────┴────────────────────────────┴───────────────────────────────┤
-│  ⚖️ PILIER 4 : CONFORMITÉ & RÉGULATION                                                  │
-│  Banking RegTech, Audit Opposable, EU AI Act, DORA, NIS 2, ISO 42001, Factur-X          │
+│  ⚖️ PILLAR 4: REGTECH, COMPLIANCE & DETERMINISTIC TRUST                                  │
+│  Opposable Audit Trail, EU AI Act, DORA, NIS 2, ISO 42001, Factur-X & Zero Hallucination│
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 > [!TIP]
-> **Bouclier Financier Zéro Dépense (Zero-Token Waste Policy)** : Toutes les opérations de nettoyage HTML, de parsing de documents, de déréférencement de schémas et de calculs financiers s'exécutent sur des **algorithmes déterministes purs à l'Edge (0ms de cold start, 0 token LLM payant)**. Nous éliminons les hallucinations et le gaspillage financier avant même que les données n'atteignent le contexte de vos modèles.
+> **Zero-Token Waste Policy & Financial Shield**: All HTML sanitization, document parsing, schema dereferencing, and financial computations execute via **100% deterministic edge algorithms (0ms cold start, zero server-side LLM token cost)**. We eradicate hallucinations and financial leakage before data ever touches your model's context window.
 
 ---
 
-## 🚀 Intégration Immédiate MCP (1-Clic pour Coding Agents)
+## 🚀 Instant MCP Integration (1-Click for Coding Agents)
 
-Équipez instantanément vos agents autonomes (**Claude Code, Cursor, Windsurf, Antigravity**) avec l'ensemble de nos outils de production via une unique commande :
+Equip autonomous coding agents (**Claude Code, Cursor, Windsurf, Antigravity**) with our full production tool suite via a single command:
 
 ```bash
-# Ajouter le Hub MCP Universel TopAI dans Claude Code / Claude Desktop
+# Add TopAI Universal MCP Server to Claude Code / Claude Desktop
 npx -y @topaisaas/mcp-server
 ```
 
-Configuration `claude_desktop_config.json` ou Cursor :
+Configuration for `claude_desktop_config.json` or Cursor:
 ```json
 {
   "mcpServers": {
@@ -67,107 +67,108 @@ Configuration `claude_desktop_config.json` ou Cursor :
 
 ---
 
-## 🧭 Le Portefeuille Industriel : Les 4 Piliers Stratégiques (+75 Projets)
+## 🧭 The Enterprise Portfolio: The 4 Strategic Pillars (75+ Primitives)
 
 ---
 
-### ⚡ PILIER 1 : Optimisation des Coûts & AI FinOps (Latence Sub-30ms & Edge Performance)
-*Destruction de coûts LLM (-30% à -85%), compression de tokens, routage dynamique économique, mise à l'échelle matérielle et protection de contexte.*
+### ⚡ PILLAR 1: AI FinOps & Edge Performance (Sub-30ms Latency & Cost Optimization)
+*Direct LLM cost eradication (-30% to -85%), context window token compression, dynamic economical routing, hardware sizing, and edge inference acceleration.*
 
-| N° | Service / Primitif | Mission & Impact ROI | Statut | Démo Live | RapidAPI |
+| # | Microservice / Primitive | Mission & ROI Impact | Status | Live Demo | Marketplace |
 |:---:|---|---|:---:|:---:|:---:|
-| **05** | **Semantic Cache & Token Saver** | Cache vectoriel sub-milliseconde pour OpenAI, Claude, Gemini. Réduit les factures de 30% à 60% | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://semantic-cache.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/semantic-cache-token-saver-api/pricing) |
-| **09** | **TokenSlimmer API** | Éliminateur de boilerplate HTML & compresseur JSON récursif. Divise le coût en tokens par 3 à 5 | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://tokenslimmer-api.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/tokenslimmer-api/pricing) |
-| **10** | **AgentVision Crop & Focus** | Rognage ROI headless chirurgical pour modèles multimodaux (GPT-4o, Claude 3.5), coupe les tokens vision de 60% à 85% | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://agentvision-crop-focus.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/agentvision-crop-focus-api/pricing) |
-| **01** | **Web-to-Markdown API** | Extraction de contenu sans publicité et conversion Markdown ultra-légère pour RAG | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://web-to-markdown-api.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/universal-web-to-markdown-b2b-lead-intelligence-api/pricing) |
-| **04** | **AI Real-Time Web Search** | Moteur de recherche d'actualités et faits sans bruit de scraping pour grounding RAG | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://ai-web-search.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/ai-real-time-web-search-and-grounding/pricing) |
-| **21** | **Global LLM Health Pulse & Radar** | Sonde temps réel de latence P99 et taux 429 des 15 principaux fournisseurs pour routage au moins cher | 📋 *Prêt* | - | Hub TopAI |
-| **24** | **Zero-Shot Complexity Downgrader** | Analyseur 1ms routant les requêtes simples vers SLM ($0.0001) au lieu de modèles lourds | 📋 *Prêt* | - | Hub TopAI |
-| **25** | **TypeSafe Decision & State Router** | Moteur non-autorégressif (style Jev) retournant choix typés et états en sub-30ms | 📋 *Prêt* | - | Hub TopAI |
-| **33** | **Lossless Context Distiller** | Distillation multi-modale sans perte : stripping de logs, JSON et code source pour fenêtres 128k | 📋 *Prêt* | - | Hub TopAI |
-| **72** | **LLM Hardware & VRAM Sizer** | Calculateur déterministe de VRAM, quantisation (Q4/AWQ) et débit pour modèles locaux sur Mac/GPU | 📋 *Prêt* | - | Hub TopAI |
-| **74** | **CLI Log Token Condenser API** | Compression de 70% à 90% des logs npm, pytest et git pour coding agents | 📋 *Prêt* | - | Hub TopAI |
+| **05** | **Semantic Cache & Token Saver** | Sub-millisecond edge vector cache for OpenAI, Claude, Gemini. Slashes API bills by 30% to 60% | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://semantic-cache.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/semantic-cache-token-saver-api/pricing) |
+| **09** | **TokenSlimmer API** | HTML boilerplate stripper & recursive JSON compressor. Cuts token volume by 3x to 5x | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://tokenslimmer-api.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/tokenslimmer-api/pricing) |
+| **10** | **AgentVision Crop & Focus** | Surgical headless ROI cropper for vision LLMs (GPT-4o, Claude 3.5), slashes image tokens by 60% to 85% | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://agentvision-crop-focus.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/agentvision-crop-focus-api/pricing) |
+| **01** | **Web-to-Markdown API** | Clean, ad-free web content extraction and token-efficient Markdown conversion for RAG | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://web-to-markdown-api.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/universal-web-to-markdown-b2b-lead-intelligence-api/pricing) |
+| **04** | **AI Real-Time Web Search** | Noise-free real-time web search and live grounding engine for RAG pipelines | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://ai-web-search.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/ai-real-time-web-search-and-grounding/pricing) |
+| **21** | **Global LLM Health Pulse & Radar** | Real-time P99 latency and 429 error tracking across top 15 AI providers for optimal cost routing | 📋 *Ready* | - | TopAI Hub |
+| **24** | **Zero-Shot Complexity Downgrader** | 1ms heuristic analyzer routing simple prompts to ultra-cheap SLMs ($0.0001) instead of frontier models | 📋 *Ready* | - | TopAI Hub |
+| **25** | **TypeSafe Decision & State Router** | Non-autoregressive state machine (Jev-style) delivering typed decisions and confidence in sub-30ms | 📋 *Ready* | - | TopAI Hub |
+| **33** | **Lossless Context Distiller** | Lossless multi-modal context distillation: strips debug logs, JSON, and source files for 128k context packing | 📋 *Ready* | - | TopAI Hub |
+| **72** | **LLM Hardware & VRAM Sizer** | Deterministic VRAM, quant (Q4/AWQ), and throughput calculator for local models on Apple Silicon / GPUs | 📋 *Ready* | - | TopAI Hub |
+| **74** | **CLI Log Token Condenser API** | Compresses npm, pytest, and git terminal logs by 70% to 90% for coding agents | 📋 *Ready* | - | TopAI Hub |
 
 ---
 
-### 🤖 PILIER 2 : Autonomous Agent Mesh & Native MCP (Protocoles & Primitives Agentiques)
-*Coordination multi-agents, serveur MCP universel, protection anti-boucles infinies, traçabilité et micropaiements autonomes.*
+### 🤖 PILLAR 2: Autonomous Agent Mesh & Native MCP (Agentic Protocols & Tooling)
+*Multi-agent orchestration, universal MCP server hub, runaway loop circuit breakers, auditability, and autonomous agent micropayments.*
 
-| N° | Service / Primitif | Mission & Impact ROI | Statut | Démo Live | RapidAPI |
+| # | Microservice / Primitive | Mission & ROI Impact | Status | Live Demo | Marketplace |
 |:---:|---|---|:---:|:---:|:---:|
-| **14** | **Universal MCP Server Hub** | Hub MCP tout-en-un exposant 19 outils de production pour Claude Code, Cursor, Windsurf | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://mcp-server-hub.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/universal-native-mcp-server-hub/pricing) |
-| **22** | **Runaway Loop Killer & Circuit Breaker** | Coupe-circuit anti-boucle stérile stoppant net les agents dérivant au-delà de 15 itérations (sauve 300-1500€/incident) | 📋 *Prêt* | - | Hub TopAI |
-| **26** | **Agentic Payment Escrow & Pre-Auth** | Tokens de paiement éphémères pré-autorisés pour achats autonomes d'agents (norme Stripe/Mastercard) | 📋 *Prêt* | - | Hub TopAI |
-| **28** | **Agent Sprawl Registry & Heartbeat** | Annuaire d'agents distribués avec monitoring de heartbeat et kill-switch global d'urgence | 📋 *Prêt* | - | Hub TopAI |
-| **30** | **Agent Waterfall & Trace Visualizer** | Diagramme SVG décomposant la latence et les goulots d'étranglement de chaque sous-agent | 📋 *Prêt* | - | Hub TopAI |
-| **38** | **Realtime Voice AI Latency Primitives** | Découpage syntaxique sub-10ms et pre-TTS pour agents vocaux temps réel | 📋 *Prêt* | - | Hub TopAI |
-| **61** | **EIP-7702 AI Agent Wallet Shield** | Simulation sub-15ms de transactions et protection anti-drainer pour portefeuilles d'agents | 📋 *Prêt* | - | Hub TopAI |
-| **76** | **AI Red-Teaming & Jailbreak Fuzzer** | Fuzzer déterministe d'injections de prompts, contournements multi-tours et fuites de system prompt | 📋 *Prêt* | - | Hub TopAI |
+| **14** | **Universal MCP Server Hub** | All-in-one MCP server exposing 19 production AI tools for Claude Code, Cursor, Windsurf | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://mcp-server-hub.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/universal-native-mcp-server-hub/pricing) |
+| **22** | **Runaway Loop Killer & Circuit Breaker** | Anti-runaway circuit breaker terminating repetitive loops beyond 15 turns (saves $300-$1,500/incident) | 📋 *Ready* | - | TopAI Hub |
+| **26** | **Agentic Payment Escrow & Pre-Auth** | Pre-authorized ephemeral payment tokens for autonomous agent procurement (Stripe/Mastercard standard) | 📋 *Ready* | - | TopAI Hub |
+| **28** | **Agent Sprawl Registry & Heartbeat** | Distributed agent directory with live heartbeat monitoring and emergency global kill-switch | 📋 *Ready* | - | TopAI Hub |
+| **30** | **Agent Waterfall & Trace Visualizer** | Interactive SVG latency trace decomposing multi-step agent bottlenecks and tool overhead | 📋 *Ready* | - | TopAI Hub |
+| **38** | **Realtime Voice AI Latency Primitives** | Sub-10ms sentence boundary chunking and pre-TTS formatting for low-latency voice agents | 📋 *Ready* | - | TopAI Hub |
+| **61** | **EIP-7702 AI Agent Wallet Shield** | Sub-15ms transaction simulation and anti-drainer security firewall for on-chain agent wallets | 📋 *Ready* | - | TopAI Hub |
+| **76** | **AI Red-Teaming & Jailbreak Fuzzer** | Deterministic fuzzing engine detecting prompt injection, multi-turn jailbreaks, and system prompt leakage | 📋 *Ready* | - | TopAI Hub |
 
 ---
 
-### 🚀 PILIER 3 : AI Product-Ops, B2B Growth & Startup Scale (Startups & Produits IA)
-*Primitives indispensables pour fondateurs de startups IA, métrologie multi-tenant, billing à l'usage, enrichissement B2B et passage à l'échelle.*
+### 🚀 PILLAR 3: AI Product-Ops, B2B Growth & Startup Scale (AI Startups & Product Enablement)
+*Essential primitives for AI startup founders, B2B lead enrichment, technographics, multi-tenant metering, usage-based billing, and stress testing.*
 
-| N° | Service / Primitif | Mission & Impact ROI | Statut | Démo Live | RapidAPI |
+| # | Microservice / Primitive | Mission & ROI Impact | Status | Live Demo | Marketplace |
 |:---:|---|---|:---:|:---:|:---:|
-| **02** | **B2B Data-as-a-Service** | Répertoire de sociétés qualifiées, firmographies et exports CSV/JSON instantanés | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://b2b-data-as-a-service.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/enterprise-b2b-data-as-a-service-lead-dataset-api/pricing) |
-| **03** | **B2B Company Deep-Enrichment** | Scanner de 100+ technographies, graphe de contacts et accroches personnalisées pour Clay | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://b2b-company-enrichment.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/b2b-company-deep-enrichment/pricing) |
-| **12** | **TechStack Fingerprinter** | Détection en 20ms de 70+ CMS/CRM/eCommerce (Shopify, Stripe, HubSpot) pour prospection | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://techstack-fingerprinter.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/techstack-fingerprinter-api/pricing) |
-| **13** | **Polymarket Odds & Arbitrage Delta** | Arbitrage d'écarts de cotes prédictives en direct, corrélation de news et calcul de mise Kelly | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://polymarket-arbitrage.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/polymarket-odds-arbitrage-delta-api/pricing) |
-| **17** | **Google AI Overview Extractor** | Extraction sub-50ms des réponses génératives SGE de Google et surveillance des sources citées | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://google-ai-overview-api.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/google-ai-overview-serp-extractor-api/pricing) |
-| **18** | **Disposable Burner Email & MX Shield** | Blocage sub-5ms des inboxes jetables (12 000+ domaines) et validation MX live pour préserver les free trials | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://disposable-email-shield.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/disposable-burner-email-mx-shield-api/pricing) |
-| **19** | **OpenAPI 3.0 Flattener & Cleaner** | Résolution récursive des `$ref`, détection de circularité et nettoyage des schémas RapidAPI | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://openapi-flattener.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/openapi-flattener-schema-cleaner-api/pricing) |
-| **07** | **Headless Webpage Screenshot** | Capture visuelle haute vitesse, mockups et cartes sociales 1200x630 pour applications web | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://headless-screenshot.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/headless-webpage-screenshot-social-card-api/pricing) |
-| **20** | **Live SLA & SVG Badge Engine** | Générateur dynamique sub-10ms de badges de statut d'uptime et latence pour documentation | 📋 *Prêt* | - | Hub TopAI |
-| **23** | **Virtual Key & Budget Allocator** | Sous-clés API étanches avec plafonds financiers stricts à l'euro près pour refacturation SaaS | 📋 *Prêt* | - | Hub TopAI |
-| **31** | **Canary Split & Model A/B Testing** | Répartition dynamique de trafic et benchmarking live des coûts réels entre modèles | 📋 *Prêt* | - | Hub TopAI |
-| **32** | **Production Fine-Tuning Exporter** | Export automatique des runs réussis en JSONL pour entraîner des modèles ouverts (Llama/Mistral) | 📋 *Prêt* | - | Hub TopAI |
-| **77** | **Load & Stress Simulator API** | Simulation de haute concurrence, injection de latence et tests de résilience pour startups en hypercroissance | 📋 *Prêt* | - | Hub TopAI |
+| **02** | **B2B Data-as-a-Service** | Directory of qualified enterprise entities, firmographics, and instant CSV/JSON datasets | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://b2b-data-as-a-service.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/enterprise-b2b-data-as-a-service-lead-dataset-api/pricing) |
+| **03** | **B2B Company Deep-Enrichment** | 100+ technographic signals scanner, contact graph, and custom cold outreach icebreakers for Clay | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://b2b-company-enrichment.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/b2b-company-deep-enrichment/pricing) |
+| **12** | **TechStack Fingerprinter** | Sub-20ms detection of 70+ CMS/CRM/eCommerce technologies (Shopify, Stripe, HubSpot) for prospecting | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://techstack-fingerprinter.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/techstack-fingerprinter-api/pricing) |
+| **13** | **Polymarket Odds & Arbitrage Delta** | Real-time prediction market odds, news event correlation, and Kelly criterion bet sizing | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://polymarket-arbitrage.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/polymarket-odds-arbitrage-delta-api/pricing) |
+| **17** | **Google AI Overview Extractor** | Sub-50ms extraction of Google SGE generative answers and cited source monitoring | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://google-ai-overview-api.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/google-ai-overview-serp-extractor-api/pricing) |
+| **18** | **Disposable Burner Email & MX Shield** | Sub-5ms detection of 12,000+ burner email domains and live MX verification to prevent SaaS trial fraud | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://disposable-email-shield.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/disposable-burner-email-mx-shield-api/pricing) |
+| **19** | **OpenAPI 3.0 Flattener & Cleaner** | Sub-5ms recursive $ref dereferencing, circular loop guards, and RapidAPI schema sanitization | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://openapi-flattener.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/openapi-flattener-schema-cleaner-api/pricing) |
+| **07** | **Headless Webpage Screenshot** | High-speed visual capture, responsive UI mockups, and 1200x630 social card generation | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://headless-screenshot.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/headless-webpage-screenshot-social-card-api/pricing) |
+| **20** | **Live SLA & SVG Badge Engine** | Sub-10ms dynamic SVG badge generator rendering real-time uptime, SLA, and latency for documentation | 📋 *Ready* | - | TopAI Hub |
+| **23** | **Virtual Key & Budget Allocator** | Isolated sub-API keys with hard currency budget caps for SaaS usage billing and tenant isolation | 📋 *Ready* | - | TopAI Hub |
+| **31** | **Canary Split & Model A/B Testing** | Dynamic traffic splitting and live cost-vs-fidelity benchmarking between LLM providers | 📋 *Ready* | - | TopAI Hub |
+| **32** | **Production Fine-Tuning Exporter** | Automates JSONL extraction of high-fidelity production runs for fine-tuning open-source models (Llama/Mistral) | 📋 *Ready* | - | TopAI Hub |
+| **77** | **Load & Stress Simulator API** | High-concurrency stress testing, latency fault injection, and resilience validation for scaling startups | 📋 *Ready* | - | TopAI Hub |
 
 ---
 
-### ⚖️ PILIER 4 : Conformité Réglementaire, Banking RegTech & Deterministic Trust
-*Garantie zéro hallucination sur les chiffres, auditabilité légale (EU AI Act, DORA, NIS 2, ISO 42001, Factur-X), masquage PII et souveraineté.*
+### ⚖️ PILLAR 4: Banking RegTech, Deterministic Trust & Compliance (Regulation & Sovereign Trust)
+*Zero numeric hallucination, legally opposable audit trails (EU AI Act, DORA, NIS 2, ISO 42001, Factur-X), PII masking, and healthcare/fintech validation.*
 
-| N° | Service / Primitif | Mission & Impact ROI | Statut | Démo Live | RapidAPI |
+| # | Microservice / Primitive | Mission & ROI Impact | Status | Live Demo | Marketplace |
 |:---:|---|---|:---:|:---:|:---:|
-| **06** | **PDF & Invoice Extractor** | Extraction financière déterministe, conformité Factur-X, audit IBAN ISO 7064 & calcul TVA | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://pdf-invoice-extractor.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/pdf-invoice-extractor-api/pricing) |
-| **08** | **LLM Shield & Prompt Guard** | Firewall prompt injection, détection de jailbreaks et masquage PII (RGPD/HIPAA) à l'aller/retour | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://llm-shield-guard.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/llm-shield-prompt-guard-api/pricing) |
-| **11** | **AgentMath & Fact-Checker** | Vérification mathématique déterministe (TVA mondiale, jours ouvrés, intérêts BCE) avec 0 hallucination | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://agentmath-fact-checker.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/agentmath-fact-checker-api/pricing) |
-| **15** | **PharmaPatent Expiry Watcher** | Surveillance réglementaire des brevets pharmaceutiques (FDA Orange Book, exclusivités de marché) | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://pharmapatent-expiry.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/pharmapatent-expiry-fda-orange-book-watcher-api/pricing) |
-| **16** | **Healthcare License Validator** | Validation instantanée des praticiens de santé US/EU (NPI Luhn 80840, RPPS, ADELI, CMS NPPES) | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://healthcare-license-validator.topaisaas.workers.dev) | [Souscrire ($0)](https://rapidapi.com/topaisaasdev/api/healthcare-provider-medical-license-validator-api/pricing) |
-| **27** | **DORA Chaos Resiliency Simulator** | Simulation mathématique de bascule 12ms lors de pannes cloud et génération de preuve d'audit BCE | 📋 *Prêt* | - | Hub TopAI |
-| **29** | **Synthetic KYC & Deepfake Document** | Scanner sub-20ms détectant faux passeports et fausses factures générés par IA générative | 📋 *Prêt* | - | Hub TopAI |
-| **34** | **Deterministic Fact-Checking Gate** | Barrière d'intégrité non-LLM validant la concordance des chiffres avant transmission client | 📋 *Prêt* | - | Hub TopAI |
-| **35** | **AI Compliance Art. 12 Logger** | Journal d'audit continu légalement opposable conforme à l'Article 12 de l'EU AI Act et DORA | 📋 *Prêt* | - | Hub TopAI |
-| **40-49** | **Suite EU AI Act & Normes ISO** | Classification des risques (Art. 6/Annexe III), FRIA (Art. 27), C2PA/SynthID (Art. 50), ISO 42001 & ISO 27001 | 📋 *Prêt* | - | Hub TopAI |
-| **50-51** | **Audit Santé & Sécurité (HIPAA / SOC 2)** | Moteurs déterministes validant les contrôles Common Criteria SOC 2 Type II et règles HIPAA BAA | 📋 *Prêt* | - | Hub TopAI |
-| **57-60** | **Finance Européenne (BCE, MiCA, TFR, DAC8)** | Simulateur plafonds Euro Numérique, conformité réserves MiCA, Travel Rule crypto et reporting fiscal | 📋 *Prêt* | - | Hub TopAI |
+| **06** | **PDF & Invoice Extractor** | Zero-token financial entity extraction, Factur-X/Chorus Pro compliance, ISO 7064 IBAN & VAT reconciliation | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://pdf-invoice-extractor.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/pdf-invoice-extractor-api/pricing) |
+| **08** | **LLM Shield & Prompt Guard** | Prompt injection firewall, jailbreak blocking, and bidirectional PII masking (GDPR/HIPAA compliance) | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://llm-shield-guard.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/llm-shield-prompt-guard-api/pricing) |
+| **11** | **AgentMath & Fact-Checker** | Deterministic mathematical validation layer (global VAT, banking business days, ECB interest rates) with 0 hallucination | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://agentmath-fact-checker.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/agentmath-fact-checker-api/pricing) |
+| **15** | **PharmaPatent Expiry Watcher** | Regulatory tracking of FDA Orange Book patent cliffs, exclusivities, and Paragraph IV generic filings | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://pharmapatent-expiry.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/pharmapatent-expiry-fda-orange-book-watcher-api/pricing) |
+| **16** | **Healthcare License Validator** | Instant US/EU medical provider verification (NPI Luhn 80840, RPPS, ADELI, CMS NPPES synchronization) | ![Live](https://img.shields.io/badge/Status-Live%2024%2F7-brightgreen) | [Explore](https://healthcare-license-validator.topaisaas.workers.dev) | [Subscribe ($0)](https://rapidapi.com/topaisaasdev/api/healthcare-provider-medical-license-validator-api/pricing) |
+| **27** | **DORA Chaos Resiliency Simulator** | Deterministic 12ms failover simulation and verifiable audit proof generator for ECB banking compliance | 📋 *Ready* | - | TopAI Hub |
+| **29** | **Synthetic KYC & Deepfake Document Radar** | Sub-20ms forensic scanner detecting AI-generated synthetic passports, IDs, and fake utility bills | 📋 *Ready* | - | TopAI Hub |
+| **34** | **Deterministic Fact-Checking Gate** | Non-LLM mathematical and regulatory integrity gate validating claims prior to client dispatch | 📋 *Ready* | - | TopAI Hub |
+| **35** | **AI Compliance Art. 12 Logger** | Legally defensible immutable audit logger fully compliant with EU AI Act Article 12 and DORA standards | 📋 *Ready* | - | TopAI Hub |
+| **40-49** | **EU AI Act & ISO Governance Suite** | Risk classification (Annex III), FRIA (Art. 27), C2PA/SynthID watermark inspection (Art. 50), ISO 42001 & ISO 27001 | 📋 *Ready* | - | TopAI Hub |
+| **50-51** | **Healthcare & Security Audit Suite (HIPAA / SOC 2)** | Deterministic rule engines validating SOC 2 Type II Common Criteria (CC1-CC9) and HIPAA BAA requirements | 📋 *Ready* | - | TopAI Hub |
+| **57-60** | **European Sovereign Finance (ECB, MiCA, TFR, DAC8)** | Digital Euro holding limit simulator, MiCA stablecoin reserve verifier, Crypto Travel Rule (TFR), and DAC8 tax reporting | 📋 *Ready* | - | TopAI Hub |
 
 ---
 
-## 🎨 Identité Visuelle Officielle (Infinity Ligature)
+## 🎨 Official Brand Identity (Infinity Ligature)
 
-L'emblème officiel de TopAI SaaS Studio incarne la ligature infinie (**T-O-P-A-I**) symbolisant la fluidité topologique et le débit sub-30ms :
-- **Logo Vectoriel Master (SVG)** : [`assets/topai_logo.svg`](assets/topai_logo.svg)
-- **Logo Haute Résolution (PNG 512px)** : [`assets/topai_official_512.png`](assets/topai_official_512.png)
-- **Favicon Multi-tailles (ICO)** : [`assets/favicon.ico`](assets/favicon.ico)
-- **Charte Graphique** : Fond Jaune Électrique (`#FFD600`) et glyphe géométrique Noir Pur (`#000000`).
-
----
-
-## 🛠️ Architecture & Sécurité
-
-- **Edge Global** : Cloudflare Workers déployé sur 300+ PoPs sans aucun démarrage à froid (0ms).
-- **Standards** : Spécification Model Context Protocol (MCP 2024-11-05), OpenAPI 3.0.3, JSON-RPC 2.0.
-- **Sécurité Déterministe** : Filtre anti-SSRF (RFC 1918), pare-feu anti-DDoS et conformité FinOps stricte.
+The official TopAI SaaS Studio emblem embodies the continuous infinity ligature (**T-O-P-A-I**), symbolizing topological speed and sub-30ms dataflow:
+- **Master Vector (SVG)**: [`assets/topai_logo.svg`](assets/topai_logo.svg)
+- **High-Resolution Icon (PNG 512px)**: [`assets/topai_official_512.png`](assets/topai_official_512.png)
+- **Multi-Size Favicon Suite (ICO)**: [`assets/favicon.ico`](assets/favicon.ico)
+- **Brand Palette**: Electric Yellow (`#FFD600`) & Pure Obsidian Black (`#000000`).
 
 ---
 
-## 📬 Marketplace & Contact
+## 🛠️ Global Edge Architecture & Security
 
-- **RapidAPI Hub** : [rapidapi.com/user/topaisaasdev](https://rapidapi.com/user/topaisaasdev)
-- **Smithery Registry** : [smithery.ai/servers/top-ai-saas/mcp-server](https://smithery.ai/servers/top-ai-saas/mcp-server)
-- **npm Registry** : [npmjs.com/package/@topaisaas/mcp-server](https://www.npmjs.com/package/@topaisaas/mcp-server)
-- **Support & Partenariats** : `top.ai.saas@gmail.com`
+- **Serverless Edge Network**: Powered by Cloudflare Workers across 300+ PoPs with **0ms cold start**.
+- **Protocols Supported**: Model Context Protocol (MCP 2024-11-05), OpenAPI 3.0.3 / 3.1, JSON-RPC 2.0, SSE.
+- **Enterprise Security**: Built-in RFC 1918 Private IP filtering, Cloud Metadata firewalls, and DDoS rate-limiting gateways.
+- **Zero-Expense Shield**: 100% serverless, zero token billing overhead for parsing.
+
+---
+
+## 📬 Marketplaces & Contact
+
+- **RapidAPI Hub**: [rapidapi.com/user/topaisaasdev](https://rapidapi.com/user/topaisaasdev)
+- **Smithery Registry**: [smithery.ai/servers/top-ai-saas/mcp-server](https://smithery.ai/servers/top-ai-saas/mcp-server)
+- **npm Registry**: [npmjs.com/package/@topaisaas/mcp-server](https://www.npmjs.com/package/@topaisaas/mcp-server)
+- **Inquiries & Partnerships**: `top.ai.saas@gmail.com`
