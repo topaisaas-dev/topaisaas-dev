@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/topaisaas-dev">
-    <img src="assets/topai_official_512.png" alt="TopAI SaaS Studio Official Logo" width="130" height="130" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(255, 214, 0, 0.35);">
+    <img src="assets/topai_official_512.png" alt="TopAI Gateway Official Logo" width="130" height="130" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(255, 214, 0, 0.35);">
   </a>
 </p>
 
-# <p align="center">⚡ TopAI SaaS Studio</p>
+# <p align="center">⚡ TopAI Gateway</p>
 
 <p align="center">
   <strong>The Enterprise AI Infrastructure & Autonomous Agent-to-Agent (A2A) Gateway</strong><br/>
@@ -22,13 +22,13 @@
 
 ---
 
-## 🏛️ What is TopAI SaaS Studio?
+## 🏛️ What is TopAI Gateway?
 
-**TopAI SaaS Studio** is an edge-native enterprise AI infrastructure layer engineered to resolve the four critical friction points of modern enterprise AI adoption:
+**TopAI Gateway** is an edge-native enterprise AI infrastructure layer engineered to resolve the four critical friction points of modern enterprise AI adoption:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                                   TOPAI SAAS STUDIO                                     │
+│                                   TopAI Gateway                                     │
 ├────────────────────────────┬────────────────────────────┬───────────────────────────────┤
 │  ⚡ PILLAR 1: FINOPS        │  🤖 PILLAR 2: MCP          │  🚀 PILLAR 3: STARTUPS        │
 │  Cost & Token Optimization │  Autonomous Agent Mesh     │  Product-Ops & B2B Growth     │
