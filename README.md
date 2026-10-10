@@ -92,7 +92,7 @@ Configuration for `claude_desktop_config.json` or Cursor:
 ## 🧭 The Master Architecture: The 4 Strategic Pillars (400 Micro-APIs · ISO 9001 / DORA Compliant)
 
 > [!NOTE]
-> **100% Deterministic Parity**: This complete catalog is certified in our 91-page White Paper **[TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf](https://github.com/topaisaas-dev/topaisaas-master-workspace/blob/main/TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf)**. All 400 micro-services run with zero cold-start, zero token retention, and guaranteed $0.00 server-side LLM consumption.
+> **100% Deterministic Parity**: This complete catalog is certified in our 91-page White Paper **[TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf](https://github.com/topaisaas-dev/topaisaas-dev/blob/main/TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf)**. All 400 micro-services run with zero cold-start, zero token retention, and guaranteed $0.00 server-side LLM consumption.
 
 <details open>
 <summary><h3>⚡ PILLAR 1: AI FinOps & Edge Performance (101 APIs · 7 Live 24/7) — <i>Click to expand/collapse</i></h3></summary>
