@@ -8,10 +8,11 @@
 
 <p align="center">
   <strong>The Enterprise AI Infrastructure & Autonomous Agent-to-Agent (A2A) Gateway</strong><br/>
-  <em>Sub-30ms edge routing, deterministic LLM FinOps (-30% to -85% token costs), native MCP tooling & sovereign regulatory compliance across 300+ PoPs worldwide.</em>
+  <em>Sub-30ms edge routing, deterministic LLM FinOps (-30% to -85% token costs), native MCP tooling & sovereign regulatory compliance across 330+ Anycast PoPs worldwide.</em>
 </p>
 
 <p align="center">
+  <a href="https://topaigateway.com"><img src="https://img.shields.io/badge/TopAI-Gateway%20Platform-FFD600?style=flat-square&logo=cloudflare&logoColor=000000" alt="TopAI Gateway"/></a>
   <a href="https://rapidapi.com/user/topaisaasdev"><img src="https://img.shields.io/badge/RapidAPI-Verified%20Publisher-0055FF?style=flat-square&logo=rapidapi&logoColor=white" alt="RapidAPI"/></a>
   <a href="https://mcp-server-hub.topaisaas.workers.dev"><img src="https://img.shields.io/badge/MCP%20Hub-Live%20Edge-brightgreen?style=flat-square" alt="MCP Hub"/></a>
   <a href="https://m8ven.ai/mcp/topaisaas-dev/universal-mcp-server-hub"><img src="https://m8ven.ai/badge/mcp/topaisaas-dev/universal-mcp-server-hub" alt="M8ven Verified"/></a>
@@ -45,21 +46,23 @@
 
 ## 🎯 Who is TopAI For?
 
-### 🧑‍💻 For Individual Developers & AI Builders
-> You use Cursor, Claude Code, or Windsurf daily. You hit rate limits by mid-afternoon.
-> Your token bills keep climbing with each new AI-powered feature.
+TopAI is organized around **4 Master Cumulative Subscription Packs (Nested Hubs)** tailored for each growth stage:
 
-TopAI **Solo** gives you the full FinOps stack — token compression, semantic caching, and 19+ native MCP tools — so you ship **2.5× more code** with the same API spend. One subscription, every tool, zero per-API billing surprises.
+### 🟢 1. Solo Devs & AI Builders → [Pack 1: DevEx & FinOps (14 € / mo)](https://rapidapi.com/topaisaasdev/api/topai-pack-1-devex-finops-accelerator/pricing)
+- **Pain point**: Rate limits by mid-afternoon, sky-high token bills on Cursor / Claude Code / Windsurf.
+- **Solution**: 101 APIs included. Token compression (-65%), AST pruning, clean web scraping, 10,000 req/mo.
 
-→ [Start Free on RapidAPI](https://rapidapi.com/user/topaisaasdev)
+### 🔵 2. Startups & Autonomous Squads → [Pack 2: Squad Velocity (29 € / mo)](https://rapidapi.com/topaisaasdev/api/topai-pack-2-squad-orchestration-swarms/pricing)
+- **Pain point**: Agents overwriting each other's code, broken JSON loops, fragile tool execution.
+- **Solution**: 210 APIs included (Pack 1 + 109 APIs). Multi-agent distributed mutex, Wasm sandbox, 50,000 req/mo.
 
-### 🏢 For Engineering Teams & Enterprises
-> Your devs run unmonitored agent loops overnight burning hundreds of dollars.
-> PII leaks into LLM prompts. Regulatory audits are approaching and you have no proof trail.
+### 🟣 3. SaaS Platforms & High-Scale Infra → [Pack 3: High-Scale & Infra (79 € / mo)](https://rapidapi.com/topaisaasdev/api/topai-pack-3-high-scale-infra-accelerator1/pricing)
+- **Pain point**: Concurrency bottlenecks, SSRF risks, scraping ban-waves, coupon fraud.
+- **Solution**: 280 APIs included (Packs 1 & 2 + 70 APIs). Anti-DDoS, SSRF rebinding firewall, 250,000 req/mo.
 
-TopAI **Team** deploys budget-capped virtual keys per developer, PII masking before any prompt reaches the cloud, runaway loop circuit breakers, and a full EU AI Act / DORA compliance audit trail — all from a single gateway subscription.
-
-→ [Contact Sales](https://github.com/topaisaas-dev)
+### 🔴 4. Regulated Banking & Large Enterprises → [Pack 4: Sovereign Enterprise (199 € / mo)](https://rapidapi.com/topaisaasdev/api/topai-pack-4-sovereign-enterprise-hub/pricing)
+- **Pain point**: DORA audits approaching, SEPA VoP mandate 2025, unverified third-party tools.
+- **Solution**: 100% of all 400 APIs included. European SEPA VoP, DORA Art. 12/30 audit trails, 1,000,000+ req/mo.
 
 ---
 
@@ -89,7 +92,7 @@ Configuration for `claude_desktop_config.json` or Cursor:
 ## 🧭 The Master Architecture: The 4 Strategic Pillars (400 Micro-APIs · ISO 9001 / DORA Compliant)
 
 > [!NOTE]
-> **100% Deterministic Parity**: This complete catalog is certified in our 74-page White Paper **[TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf](https://github.com/topaisaas-dev/topaisaas-master-workspace/blob/main/TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf)**. All 400 micro-services run with zero cold-start, zero token retention, and guaranteed $0.00 server-side LLM consumption.
+> **100% Deterministic Parity**: This complete catalog is certified in our 91-page White Paper **[TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf](https://github.com/topaisaas-dev/topaisaas-master-workspace/blob/main/TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf)**. All 400 micro-services run with zero cold-start, zero token retention, and guaranteed $0.00 server-side LLM consumption.
 
 <details open>
 <summary><h3>⚡ PILLAR 1: AI FinOps & Edge Performance (101 APIs · 7 Live 24/7) — <i>Click to expand/collapse</i></h3></summary>
@@ -541,7 +544,7 @@ Configuration for `claude_desktop_config.json` or Cursor:
 
 ## 🛠️ Global Edge Architecture & Security
 
-- **Serverless Edge Network**: Powered by Cloudflare Workers across 300+ PoPs with **0ms cold start**.
+- **Serverless Edge Network**: Powered by Cloudflare Workers across 330+ Anycast PoPs with **0ms cold start**.
 - **Protocols Supported**: Model Context Protocol (MCP 2024-11-05), OpenAPI 3.0.3 / 3.1, JSON-RPC 2.0, SSE.
 - **Enterprise Security**: Built-in RFC 1918 Private IP filtering, Cloud Metadata firewalls, and DDoS rate-limiting gateways.
 - **Zero-Expense Shield**: 100% serverless, zero token billing overhead for parsing.
@@ -550,6 +553,8 @@ Configuration for `claude_desktop_config.json` or Cursor:
 
 ## 📬 Marketplaces & Contact
 
+- **Master Gateway Platform**: [topaigateway.com](https://topaigateway.com)
+- **Developer Documentation**: [docs.topaigateway.com](https://docs.topaigateway.com)
 - **RapidAPI Hub**: [rapidapi.com/user/topaisaasdev](https://rapidapi.com/user/topaisaasdev)
 - **Smithery Registry**: [smithery.ai/servers/top-ai-saas/mcp-server](https://smithery.ai/servers/top-ai-saas/mcp-server)
 - **npm Registry**: [npmjs.com/package/@topaisaas/mcp-server](https://www.npmjs.com/package/@topaisaas/mcp-server)
