@@ -48,21 +48,25 @@
 
 TopAI is organized around **4 Master Cumulative Subscription Packs (Nested Hubs)** tailored for each growth stage:
 
-### 🟢 1. Solo Devs & AI Builders → [Pack 1: DevEx & FinOps (14 € / mo)](https://rapidapi.com/topaisaasdev/api/topai-pack-1-devex-finops-accelerator/pricing)
+### 🟢 1. Solo Devs & AI Builders → [Pack 1: DevEx & FinOps (14 € / mo)](https://topaigateway.com/checkout?pack=pack_1_devex)
 - **Pain point**: Rate limits by mid-afternoon, sky-high token bills on Cursor / Claude Code / Windsurf.
 - **Solution**: 101 APIs included. Token compression (-65%), AST pruning, clean web scraping, 10,000 req/mo.
+- **Subscribe**: [Instant Edge Activation (14 € / mo)](https://topaigateway.com/checkout?pack=pack_1_devex) · [View Specs on topaigateway.com](https://topaigateway.com/docs#packs) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-1-devex-finops-accelerator/pricing)
 
-### 🔵 2. Startups & Autonomous Squads → [Pack 2: Squad Velocity (29 € / mo)](https://rapidapi.com/topaisaasdev/api/topai-pack-2-squad-orchestration-swarms/pricing)
+### 🔵 2. Startups & Autonomous Squads → [Pack 2: Squad Velocity (29 € / mo)](https://topaigateway.com/checkout?pack=pack_2_squad)
 - **Pain point**: Agents overwriting each other's code, broken JSON loops, fragile tool execution.
 - **Solution**: 210 APIs included (Pack 1 + 109 APIs). Multi-agent distributed mutex, Wasm sandbox, 50,000 req/mo.
+- **Subscribe**: [Instant Edge Activation (29 € / mo)](https://topaigateway.com/checkout?pack=pack_2_squad) · [View Specs on topaigateway.com](https://topaigateway.com/docs#packs) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-2-squad-orchestration-swarms/pricing)
 
-### 🟣 3. SaaS Platforms & High-Scale Infra → [Pack 3: High-Scale & Infra (79 € / mo)](https://rapidapi.com/topaisaasdev/api/topai-pack-3-high-scale-infra-accelerator1/pricing)
+### 🟣 3. SaaS Platforms & High-Scale Infra → [Pack 3: High-Scale & Infra (79 € / mo)](https://topaigateway.com/checkout?pack=pack_3_infra)
 - **Pain point**: Concurrency bottlenecks, SSRF risks, scraping ban-waves, coupon fraud.
 - **Solution**: 280 APIs included (Packs 1 & 2 + 70 APIs). Anti-DDoS, SSRF rebinding firewall, 250,000 req/mo.
+- **Subscribe**: [Instant Edge Activation (79 € / mo)](https://topaigateway.com/checkout?pack=pack_3_infra) · [View Specs on topaigateway.com](https://topaigateway.com/docs#packs) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-3-high-scale-infra-accelerator1/pricing)
 
-### 🔴 4. Regulated Banking & Large Enterprises → [Pack 4: Sovereign Enterprise (199 € / mo)](https://rapidapi.com/topaisaasdev/api/topai-pack-4-sovereign-enterprise-hub/pricing)
+### 🔴 4. Regulated Banking & Large Enterprises → [Pack 4: Sovereign Enterprise (199 € / mo)](https://topaigateway.com/checkout?pack=pack_4_enterprise)
 - **Pain point**: DORA audits approaching, SEPA VoP mandate 2025, unverified third-party tools.
 - **Solution**: 100% of all 400 APIs included. European SEPA VoP, DORA Art. 12/30 audit trails, 1,000,000+ req/mo.
+- **Subscribe**: [Instant Edge Activation (199 € / mo)](https://topaigateway.com/checkout?pack=pack_4_enterprise) · [View Specs on topaigateway.com](https://topaigateway.com/docs#packs) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-4-sovereign-enterprise-hub/pricing)
 
 ---
 
@@ -92,7 +96,7 @@ Configuration for `claude_desktop_config.json` or Cursor:
 ## 🧭 The Master Architecture: The 4 Strategic Pillars (400 Micro-APIs · ISO 9001 / DORA Compliant)
 
 > [!NOTE]
-> **100% Deterministic Parity**: This complete catalog is certified in our 91-page White Paper **[TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf](https://github.com/topaisaas-dev/topaisaas-dev/blob/main/TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf)**. All 400 micro-services run with zero cold-start, zero token retention, and guaranteed $0.00 server-side LLM consumption.
+> **100% Deterministic Parity**: This complete catalog is certified in our 91-page White Paper **[TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf](./TopAI_Architecture_Harness_Kernel_Dev_Guide.pdf)** ([Direct PDF Download](https://topaigateway.com/download/master-guide.pdf)). All 400 micro-services run with zero cold-start, zero token retention, and guaranteed $0.00 server-side LLM consumption.
 
 <details open>
 <summary><h3>⚡ PILLAR 1: AI FinOps & Edge Performance (101 APIs · 7 Live 24/7) — <i>Click to expand/collapse</i></h3></summary>
@@ -554,7 +558,7 @@ Configuration for `claude_desktop_config.json` or Cursor:
 ## 📬 Marketplaces & Contact
 
 - **Master Gateway Platform**: [topaigateway.com](https://topaigateway.com)
-- **Developer Documentation**: [docs.topaigateway.com](https://docs.topaigateway.com)
+- **Developer Documentation**: [topaigateway.com/docs](https://topaigateway.com/docs)
 - **RapidAPI Hub**: [rapidapi.com/user/topaisaasdev](https://rapidapi.com/user/topaisaasdev)
 - **Smithery Registry**: [smithery.ai/servers/top-ai-saas/mcp-server](https://smithery.ai/servers/top-ai-saas/mcp-server)
 - **npm Registry**: [npmjs.com/package/@topaisaas/mcp-server](https://www.npmjs.com/package/@topaisaas/mcp-server)
