@@ -51,22 +51,22 @@ TopAI is organized around **4 Master Cumulative Subscription Packs (Nested Hubs)
 ### 🟢 1. Solo Devs & AI Builders → [Pack 1: DevEx & FinOps (14 € / mo)](https://topaigateway.com/checkout?pack=pack_1_devex)
 - **Pain point**: Rate limits by mid-afternoon, sky-high token bills on Cursor / Claude Code / Windsurf.
 - **Solution**: 101 APIs included. Token compression (-65%), AST pruning, clean web scraping, 10,000 req/mo.
-- **Subscribe**: [Instant Edge Activation (14 € / mo)](https://topaigateway.com/checkout?pack=pack_1_devex) · [View Specs on topaigateway.com](https://topaigateway.com/docs#packs) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-1-devex-finops-accelerator/pricing)
+- **Subscribe**: [Instant Edge Activation (14 € / mo)](https://topaigateway.com/checkout?pack=pack_1_devex) · [View Specs on topaigateway.com](https://topaigateway.com) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-1-devex-finops-accelerator/pricing)
 
 ### 🔵 2. Startups & Autonomous Squads → [Pack 2: Squad Velocity (29 € / mo)](https://topaigateway.com/checkout?pack=pack_2_squad)
 - **Pain point**: Agents overwriting each other's code, broken JSON loops, fragile tool execution.
 - **Solution**: 210 APIs included (Pack 1 + 109 APIs). Multi-agent distributed mutex, Wasm sandbox, 50,000 req/mo.
-- **Subscribe**: [Instant Edge Activation (29 € / mo)](https://topaigateway.com/checkout?pack=pack_2_squad) · [View Specs on topaigateway.com](https://topaigateway.com/docs#packs) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-2-squad-orchestration-swarms/pricing)
+- **Subscribe**: [Instant Edge Activation (29 € / mo)](https://topaigateway.com/checkout?pack=pack_2_squad) · [View Specs on topaigateway.com](https://topaigateway.com) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-2-squad-orchestration-swarms/pricing)
 
 ### 🟣 3. SaaS Platforms & High-Scale Infra → [Pack 3: High-Scale & Infra (79 € / mo)](https://topaigateway.com/checkout?pack=pack_3_infra)
 - **Pain point**: Concurrency bottlenecks, SSRF risks, scraping ban-waves, coupon fraud.
 - **Solution**: 280 APIs included (Packs 1 & 2 + 70 APIs). Anti-DDoS, SSRF rebinding firewall, 250,000 req/mo.
-- **Subscribe**: [Instant Edge Activation (79 € / mo)](https://topaigateway.com/checkout?pack=pack_3_infra) · [View Specs on topaigateway.com](https://topaigateway.com/docs#packs) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-3-high-scale-infra-accelerator1/pricing)
+- **Subscribe**: [Instant Edge Activation (79 € / mo)](https://topaigateway.com/checkout?pack=pack_3_infra) · [View Specs on topaigateway.com](https://topaigateway.com) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-3-high-scale-infra-accelerator1/pricing)
 
 ### 🔴 4. Regulated Banking & Large Enterprises → [Pack 4: Sovereign Enterprise (199 € / mo)](https://topaigateway.com/checkout?pack=pack_4_enterprise)
 - **Pain point**: DORA audits approaching, SEPA VoP mandate 2025, unverified third-party tools.
 - **Solution**: 100% of all 400 APIs included. European SEPA VoP, DORA Art. 12/30 audit trails, 1,000,000+ req/mo.
-- **Subscribe**: [Instant Edge Activation (199 € / mo)](https://topaigateway.com/checkout?pack=pack_4_enterprise) · [View Specs on topaigateway.com](https://topaigateway.com/docs#packs) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-4-sovereign-enterprise-hub/pricing)
+- **Subscribe**: [Instant Edge Activation (199 € / mo)](https://topaigateway.com/checkout?pack=pack_4_enterprise) · [View Specs on topaigateway.com](https://topaigateway.com) · [RapidAPI Mirror](https://rapidapi.com/topaisaasdev/api/topai-pack-4-sovereign-enterprise-hub/pricing)
 
 ---
 
